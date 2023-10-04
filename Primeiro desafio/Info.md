@@ -10,5 +10,6 @@ Apesar da maioria das minhas anotações serem feitas em papel e caneta (acho ma
 | [Markdown Guide](https://www.markdownguide.org) | Site sobre markdown com sintaxes (e as similares em HTML) e demais informações de usos. |
 | [W3School](https://www.w3schools.com) | Tal como o Mardown guide, traz informações úteis sobre HTML, CSS, JavaScript e outras coisas (mas essas 3 primeiras que são as mais importantes no momento). Também tem alguns exercícios e tutoriais. |
 | [Stack Overflow](https://stackoverflow.com) | Forum super útil para tirar duvidas sobre qualquer coisa (qualquer coisa mesmo) relacionada a programação e TI |
+| [Img Shield](https://shields.io) | Site que contem as badges que podemos colocar nos markdowns pra ficar bonitim |
 |  |  |
 
